@@ -24,7 +24,7 @@ and operational productivity metrics.
 
 ---
 ## Project Structure
-
+```text
 vessel-berth-allocation/
 │
 ├── api/                    # FastAPI application
@@ -42,7 +42,7 @@ vessel-berth-allocation/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ## Methodology
 
 The modeling pipeline follows these steps:
